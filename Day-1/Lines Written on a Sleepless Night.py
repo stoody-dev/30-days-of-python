@@ -3,7 +3,7 @@ from re import I
 
 print(
 '''
-I’m unfamiliar with statistics,
+ I’m unfamiliar with statistics,
 I wouldn’t know what to do
 With a book on Mathematics
 Or a girl of ninety-two.
