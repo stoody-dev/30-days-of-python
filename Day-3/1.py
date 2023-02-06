@@ -14,4 +14,4 @@ print(c+d)#this will give required int output
 e=1   #int
 f=2.4 #float
 
-print(c+d)#it will give float as a output as python automatically converts to another data type to prevent data loss 
+print(e+f)#it will give float as a output as python automatically converts to another data type to prevent data loss 
