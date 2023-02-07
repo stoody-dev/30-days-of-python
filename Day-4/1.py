@@ -16,5 +16,5 @@ hi
 i am stoody-dev
 a weeb dev xd
 '''
-for character in intro:
-    print (character)
+for character in intro: # to print every character in a multi line string we use for loop
+    print (character) 
