@@ -23,4 +23,5 @@ for character in intro: # to print every character in a multi line string we use
 #string slicing
 names ="Akshay,stoody"
 print(names[0:6])
+print(names[0:-5])
 print(len(names))
