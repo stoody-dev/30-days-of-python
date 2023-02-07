@@ -18,3 +18,9 @@ a weeb dev xd
 '''
 for character in intro: # to print every character in a multi line string we use for loop
     print (character) 
+
+
+#string slicing
+names ="Akshay,stoody"
+print(names[0:6])
+print(len(names))
